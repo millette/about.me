@@ -1,0 +1,24 @@
+{
+  "name": "about.me",
+  "version": "0.0.0",
+  "description": "[JSON Resume](https://jsonresume.org/) is an open source initiative to create a JSON-based standard for resume. This repository aims to provide you a sample file containing a valid definition based on [v1.0 schema](https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json) that can be used on multiple projects and services",
+  "main": "index.js",
+  "scripts": {
+    "export": "resume export index.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millette/about.me.git"
+  },
+  "keywords": [],
+  "author": "Robin Millette <robin@millette.info> (http://robin.millette.info/)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/millette/about.me/issues"
+  },
+  "homepage": "https://github.com/millette/about.me#readme",
+  "dependencies": {
+    "resume-cli": "^1.2.8"
+  }
+}
