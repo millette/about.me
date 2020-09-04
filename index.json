@@ -1,116 +1,447 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
-    "website": "http://johndoe.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "name": "Robin Millette",
+    "label": "Free Software evangelist and reformed application developer now writing web applications using distributed services and open standards.  Spécialisations : Free Software, CouchDB, NodeJS, HTML, CSS, Ajax, Javascript, Open Source",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "Computer Software",
     "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+      "address": "2260 rue Dorion Montréal (Québec) H2K 4B2",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "johndoe",
-      "url": "http://twitter.com/johndoe"
-    }]
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "[GTALK:millette.robin@gmail.com]",
+        "url": "https://twitter.com/[GTALK:millette.robin@gmail.com]"
+      }
+    ]
   },
-  "work": [{
-    "company": "Company",
-    "position": "Developer",
-    "website": "http://somecompany.com",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Lead Developer of Innovation hub"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2020-01-01",
-    "endDate": "2020-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "WEB101 - Web Development",
-      "SYS123 - Object Oriented Programming"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2020-11-01",
-    "awarder": "Company",
-    "summary": "Programmer of the Year 2020"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2020-10-01",
-    "website": "http://publication.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Electronics",
-    "keywords": [
-      "PCB",
-      "IOT"
-    ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }],
-  "projects": [
+  "work": [
     {
-      "name": "Project Name",
-      "description": "Description...",
-      "highlights": [ 
-        "COVID19 Patient Tracker"
-      ],
-      "keywords": [
-        "PHP", "NodeJS", "Javascript"
-      ],
-      "startDate": "2020-01-01",
-      "endDate": "2020-01-01",
-      "url": "https://project.example.com",
-      "roles": [ 
-        "Lead Developer", "Designer"
-      ],
-      "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-      "entity": "Facebook, Google, Microsoft, Amazon",
-      "type": "web application"
+      "company": "RoLLodeQc",
+      "position": "Fondateur",
+      "website": "",
+      "startDate": "2015-03-01",
+      "summary": "Développement du RoLLodeQc, trois répertoires en un: programmeurs, entreprises et logiciels. http://www.rollodeqc.com/ pour en savoir plus.",
+      "highlights": []
+    },
+    {
+      "company": "Société Saint-Jean-Baptiste",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2013-07-01",
+      "summary": "Conception et développement du site web http://www.francais101.com/ avec CouchDB et NodeJS.",
+      "highlights": [],
+      "endDate": "2013-12-01"
+    },
+    {
+      "company": "Isuma TV",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2012-06-01",
+      "summary": "Proxy pour faire une version statique d'un site \"ajax\" http://www.isuma.tv/fr/artco/desktop pour CD-ROM.",
+      "highlights": [],
+      "endDate": "2012-06-01"
+    },
+    {
+      "company": "FACIL",
+      "position": "Membres du conseil d'administration",
+      "website": "",
+      "startDate": "2011-05-01",
+      "summary": "FACIL, pour l'appropriation collective de l'informatique libre",
+      "highlights": [],
+      "endDate": "2013-01-01"
+    },
+    {
+      "company": "HexoScience Canada inc.",
+      "position": "Owner",
+      "website": "",
+      "startDate": "2011-02-01",
+      "summary": "Design user experience",
+      "highlights": [],
+      "endDate": "2013-10-01"
+    },
+    {
+      "company": "Muniduweb",
+      "position": "Project Lead",
+      "website": "",
+      "startDate": "2010-06-01",
+      "summary": "Design, program and maintain Muniduweb: single Drupal 6 installation covering 1114 different websites, one per Quebec municipality. Crawl needed data, clean it, expose it through API, reuse it.",
+      "highlights": [],
+      "endDate": "2011-11-01"
+    },
+    {
+      "company": "TÉLUQ – Télé-université",
+      "position": "Co-author",
+      "website": "",
+      "startDate": "2010-02-01",
+      "summary": "Co-développement du cours INF 6107 http://benhur.teluq.uquebec.ca/SPIP/inf6107/ sur le Web Social.",
+      "highlights": [],
+      "endDate": "2010-04-01"
+    },
+    {
+      "company": "Control Yourself",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2008-11-01",
+      "summary": "Development of the Laconica Free Software for the Identica site and other third party sites.",
+      "highlights": [],
+      "endDate": "2009-06-01"
+    },
+    {
+      "company": "Observatoire d'informatique libre québécois",
+      "position": "Webmaster",
+      "website": "",
+      "startDate": "2008-05-01",
+      "summary": "Maintain the OILQ website, find new sources of information on free and open source software and culture, etc.",
+      "highlights": [],
+      "endDate": "2014-06-01"
+    },
+    {
+      "company": "StatusNet",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2008-01-01",
+      "summary": "Participated in the development of a distributed microblogging/microcasting platform, including multi-media stuff.",
+      "highlights": [],
+      "endDate": "2009-01-01"
+    },
+    {
+      "company": "FACIL",
+      "position": "President",
+      "website": "",
+      "startDate": "2005-04-01",
+      "summary": "FACIL, pour l'appropriation collective de l'informatique libre means FACIL, for the collective appropriation of free software.",
+      "highlights": [],
+      "endDate": "2006-11-01"
+    },
+    {
+      "company": "Drupal Project",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2005-01-01",
+      "summary": "Deliver Drupal websites and modules. https://drupal.org/user/49105",
+      "highlights": [],
+      "endDate": "2014-09-01"
+    },
+    {
+      "company": "Koumbit",
+      "position": "Web developer",
+      "website": "",
+      "startDate": "2004-06-01",
+      "summary": "Contracting for Koumbit installing Drupal and a few odd jobs.",
+      "highlights": [],
+      "endDate": "2007-06-01"
+    },
+    {
+      "company": "Quebec Free Software Week (SQIL)",
+      "position": "SQIL Leader",
+      "website": "",
+      "startDate": "2004-02-01",
+      "summary": "Leading the \"Semaine québécoise de l'informatique libre\" (SQIL) for a fourth year, coordinating efforts, handling the website, promoting free software and looking for sponsors and volunteers.  See http://2007.sqil.info/",
+      "highlights": [],
+      "endDate": "2007-05-01"
+    },
+    {
+      "company": "NewLogic",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "1999-06-01",
+      "summary": "Responsible for the development of a computer-based video surveillance system with archival and remote access.",
+      "highlights": [],
+      "endDate": "2000-12-01"
+    },
+    {
+      "company": "Waglo Labs",
+      "position": "Owner",
+      "website": "",
+      "startDate": "1990-01-01",
+      "summary": "Web site and application development using current industry standards for language, protocols, formats, layout and styling.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Collège Champagneur",
+      "area": "",
+      "studyType": "",
+      "startDate": "1983-12-31",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1987-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CouchDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HapiJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Free Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Source",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GNU/Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML 5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ubuntu",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LAMP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web 2.0",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "APIs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CMS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Asterisk",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Debian",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unobtrusive Javascript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "W3C Standards",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Semantic HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Source Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SASS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Drupal",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Nicolas Marchildon - Plusgrade",
+      "reference": "Good social skills, knows how to stimulate interest and implication. Connected to a lot of interesting people. If he can't do something, he'll know who can and get that person to you."
+    },
+    {
+      "name": "Jean-Luc Henry - Revolution Fermentation Inc.",
+      "reference": "I recommend Robin highly, and especially applaud his effort with FOSS."
     }
   ]
 }
