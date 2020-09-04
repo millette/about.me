@@ -4,7 +4,9 @@
   "description": "[JSON Resume](https://jsonresume.org/) is an open source initiative to create a JSON-based standard for resume. This repository aims to provide you a sample file containing a valid definition based on [v1.0 schema](https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json) that can be used on multiple projects and services",
   "main": "index.js",
   "scripts": {
-    "export": "resume export index.json",
+    "export:html": "resume export index.html",
+    "export:pdf": "resume export index.pdf",
+    "export": "npm run export:html && npm run export:pdf",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
